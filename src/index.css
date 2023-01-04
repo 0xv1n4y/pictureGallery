@@ -1,0 +1,43 @@
+
+img{
+ 
+  
+  margin:10px;
+ 
+}
+h1{
+  color:chartreuse;
+  font-size: 46px;
+}
+#hello{
+  width:400px;
+  height: 40px;
+  border-color: brown;
+  border-radius: 10px;
+  font-size: larger;
+  font-display: center;
+ 
+  
+}
+
+#hai{
+  height: 50px;
+  width: 100px;
+  border-radius: 9px;
+  color:black;
+  background-color: antiquewhite;
+  font-size: 20px;
+  padding: 10px;
+}
+.app{
+  background-color:black;
+  height: 400px;
+}
+.row{
+  background-color:black;
+  
+}
+
+.col-md-4{
+  display: block;
+}
